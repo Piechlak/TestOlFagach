@@ -34,6 +34,7 @@
             android:layout_weight="1"
             android:layout_margin="8dp"
             android:backgroundTint="#FF0000"
+            android:onClick="ok"
 
              />
 
@@ -82,6 +83,7 @@
             android:layout_weight="1"
             android:layout_margin="8dp"
             android:backgroundTint="#FFFFFF"
+            android:onClick="ok"
             />
 
         <Button
