@@ -33,7 +33,7 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:layout_margin="8dp"
-            android:backgroundTint="#FAE109"
+            android:backgroundTint="#FF0000"
 
              />
 
@@ -43,7 +43,10 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:layout_margin="8dp"
-            android:backgroundTint="#2196F3" />
+            android:backgroundTint="#2196F3"
+            android:onClick="ukryj"
+
+            />
 
         <Button
             android:id="@+id/button3"
@@ -51,7 +54,9 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:layout_margin="8dp"
-            android:backgroundTint="#E91E63" />
+            android:backgroundTint="#E91E63"
+            android:onClick="ukryj"
+            />
 
     </LinearLayout>
 
@@ -66,7 +71,9 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:layout_margin="8dp"
-            android:backgroundTint="#FF5722" />
+            android:backgroundTint="#FF5722"
+            android:onClick="ukryj"
+            />
 
         <Button
             android:id="@+id/button5"
@@ -74,7 +81,8 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:layout_margin="8dp"
-            android:backgroundTint="#4CAF50" />
+            android:backgroundTint="#FFFFFF"
+            />
 
         <Button
             android:id="@+id/button6"
@@ -82,7 +90,9 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:layout_margin="8dp"
-            android:backgroundTint="#009688" />
+            android:backgroundTint="#009688"
+            android:onClick="ukryj"
+            />
 
     </LinearLayout>
 
