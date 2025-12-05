@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">test o flagach</string>
+    <string name="polecenie">Wybierz kolory których których nie ma w kolorze Polski</string>
+</resources>
